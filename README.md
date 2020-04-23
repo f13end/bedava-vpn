@@ -37,4 +37,4 @@ Guvenilirligi tartismali olan Bedava vpn servisleri
 
 
 
-NOT: Bu proje @kavun 'un freevpn (https://github.com/kavun/free-vpn) temelinde olusturulmustur.
+NOT: Bu proje @kavun'un [freevpn](https://github.com/kavun/free-vpn) temelinde olusturulmustur.
