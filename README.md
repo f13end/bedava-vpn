@@ -34,3 +34,7 @@ Guvenilirligi tartismali olan Bedava vpn servisleri
 ## Efsane VPN karsilastirma listesi
 
 - [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg)
+
+
+
+NOT: Bu proje @kavun 'un freevpn (https://github.com/kavun/free-vpn) temelinde olusturulmustur.
